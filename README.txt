@@ -34,6 +34,12 @@ Run the application by command python main.py or python3 main.py
 
 ======================================================
 
+Data source:
+
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+======================================================
+
 Licence:
 
 MIT License
